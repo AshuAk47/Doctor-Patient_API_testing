@@ -34,6 +34,6 @@ The Postman collection used for testing can be found [here](Xcelore_API_Test.pos
 ![Add Patient](Screenshots%20of%20api%20request%20and%20response/add_patient_3.png)
 
 ### Suggesting a Doctor
-![Suggest Doctor](Screenshots%20of%20api%20request%20and%20response/suggestion_1.png)
-![Suggest Doctor](Screenshots%20of%20api%20request%20and%20response/suggestion_2.png)
+![Suggest Doctor](Screenshots%20of%20api%20request%20and%20response/suggestionn_1.png)
+![Suggest Doctor](Screenshots%20of%20api%20request%20and%20response/suggestionn_2.png)
 
